@@ -23,3 +23,4 @@ object exercise2{
 
   sqrt(2)
 }
+
